@@ -1,7 +1,7 @@
 # unidad3_bucles.py
 """
 Proyecto: Unidad 3 - Bucles
-Autor: Gabriel Campaña (puedes cambiar el autor aquí)
+Autor: Gabriel Campaña 
 Descripción:
  Módulo con ejemplos y utilidades que implementan los contenidos de la Unidad 3:
  - for, while
@@ -260,4 +260,5 @@ def menu():
 
 if __name__ == "__main__":
     menu()
+
 
